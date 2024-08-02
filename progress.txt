@@ -6,3 +6,4 @@ Solved 33. Search in Rotated Sorted Array
 Solved 56. Merge Intervals
 Solved 2011. Final Value of Variable After Performing Operations
 Solved 1480. Running Sum of 1d Array
+Solved 62. Unique Paths
