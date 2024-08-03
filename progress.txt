@@ -2,3 +2,4 @@ Solved 207. Course Schedule
 Solved 2215. Find the Difference of Two Arrays
 Solved 31. Next Permutation
 Solved 5. Longest Palindromic Substring
+Solved 33. Search in Rotated Sorted Array
