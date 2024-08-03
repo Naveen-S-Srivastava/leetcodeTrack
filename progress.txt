@@ -9,3 +9,4 @@ Solved 1480. Running Sum of 1d Array
 Solved 62. Unique Paths
 Solved 2235. Add Two Integers
 Solved 409. Longest Palindrome
+Solved 226. Invert Binary Tree
