@@ -5,3 +5,4 @@ Solved 5. Longest Palindromic Substring
 Solved 33. Search in Rotated Sorted Array
 Solved 56. Merge Intervals
 Solved 2011. Final Value of Variable After Performing Operations
+Solved 1480. Running Sum of 1d Array
