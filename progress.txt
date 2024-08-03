@@ -10,3 +10,4 @@ Solved 62. Unique Paths
 Solved 2235. Add Two Integers
 Solved 409. Longest Palindrome
 Solved 226. Invert Binary Tree
+Solved 221. Maximal Square
