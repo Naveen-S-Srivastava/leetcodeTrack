@@ -13,3 +13,4 @@ Solved 226. Invert Binary Tree
 Solved 221. Maximal Square
 Solved 215. Kth Largest Element in an Array
 Solved 1732. Find the Highest Altitude
+Solved 300. Longest Increasing Subsequence
