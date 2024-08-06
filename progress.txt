@@ -21,3 +21,4 @@ Solved 114. Flatten Binary Tree to Linked List
 Solved 347. Top K Frequent Elements
 Solved 72. Edit Distance
 Solved 1143. Longest Common Subsequence
+Solved 300. Longest Increasing Subsequence
