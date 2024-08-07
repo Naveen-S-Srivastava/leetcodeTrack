@@ -31,3 +31,4 @@ Solved 101. Symmetric Tree
 Solved 1480. Running Sum of 1d Array
 Solved 155. Min Stack
 Solved 518. Coin Change II
+Solved 56. Merge Intervals
