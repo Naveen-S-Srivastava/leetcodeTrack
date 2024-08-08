@@ -26,3 +26,4 @@ Solved 56. Merge Intervals
 Solved 771. Jewels and Stones
 Solved 2215. Find the Difference of Two Arrays
 Solved 2390. Removing Stars From a String
+Solved 2235. Add Two Integers
