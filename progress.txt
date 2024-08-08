@@ -28,3 +28,4 @@ Solved 2215. Find the Difference of Two Arrays
 Solved 2390. Removing Stars From a String
 Solved 2235. Add Two Integers
 Solved 101. Symmetric Tree
+Solved 1480. Running Sum of 1d Array
