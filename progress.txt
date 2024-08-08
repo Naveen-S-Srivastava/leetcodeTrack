@@ -24,3 +24,4 @@ Solved 1143. Longest Common Subsequence
 Solved 300. Longest Increasing Subsequence
 Solved 56. Merge Intervals
 Solved 771. Jewels and Stones
+Solved 2215. Find the Difference of Two Arrays
