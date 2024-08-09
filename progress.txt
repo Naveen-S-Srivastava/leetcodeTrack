@@ -34,3 +34,4 @@ Solved 518. Coin Change II
 Solved 56. Merge Intervals
 Solved 53. Maximum Subarray
 Solved 253. Meeting Rooms II
+Solved 101. Symmetric Tree
