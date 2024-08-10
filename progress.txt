@@ -40,3 +40,4 @@ Solved 11. Container With Most Water
 Solved 1672. Richest Customer Wealth
 Solved 1302. Deepest Leaves Sum
 Solved 2. Add Two Numbers
+Solved 125. Valid Palindrome
