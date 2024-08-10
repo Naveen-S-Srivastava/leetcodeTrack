@@ -43,3 +43,4 @@ Solved 2. Add Two Numbers
 Solved 125. Valid Palindrome
 Solved 2390. Removing Stars From a String
 Solved 912. Sort an Array
+Solved 2215. Find the Difference of Two Arrays
