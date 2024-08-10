@@ -49,3 +49,4 @@ Solved 844. Backspace String Compare
 Solved 23. Merge k Sorted Lists
 Solved 23. Merge k Sorted Lists
 Solved 221. Maximal Square
+Solved 567. Permutation in String
