@@ -52,3 +52,4 @@ Solved 221. Maximal Square
 Solved 567. Permutation in String
 Solved 448. Find All Numbers Disappeared in an Array
 Solved 22. Generate Parentheses
+Solved 19. Remove Nth Node From End of List
