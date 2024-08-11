@@ -51,3 +51,4 @@ Solved 23. Merge k Sorted Lists
 Solved 221. Maximal Square
 Solved 567. Permutation in String
 Solved 448. Find All Numbers Disappeared in an Array
+Solved 22. Generate Parentheses
