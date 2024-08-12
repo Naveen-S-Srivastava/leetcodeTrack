@@ -56,3 +56,4 @@ Solved 19. Remove Nth Node From End of List
 Solved 72. Edit Distance
 Solved 88. Merge Sorted Array
 Solved 128. Longest Consecutive Sequence
+Solved 31. Next Permutation
