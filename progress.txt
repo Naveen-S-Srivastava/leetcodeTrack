@@ -66,3 +66,4 @@ Solved 402. Remove K Digits
 Solved 39. Combination Sum
 Solved 409. Longest Palindrome
 Solved 238. Product of Array Except Self
+Solved 70. Climbing Stairs
