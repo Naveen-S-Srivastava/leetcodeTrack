@@ -73,3 +73,4 @@ Solved 70. Climbing Stairs
 Solved 33. Search in Rotated Sorted Array
 Solved 2390. Removing Stars From a String
 Solved 2667. Create Hello World Function
+Solved 1. Two Sum
