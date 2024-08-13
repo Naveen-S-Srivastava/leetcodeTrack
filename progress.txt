@@ -75,3 +75,4 @@ Solved 2390. Removing Stars From a String
 Solved 2667. Create Hello World Function
 Solved 1. Two Sum
 Solved 771. Jewels and Stones
+Solved 994. Rotting Oranges
