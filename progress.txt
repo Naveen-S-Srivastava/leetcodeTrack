@@ -76,3 +76,4 @@ Solved 2667. Create Hello World Function
 Solved 1. Two Sum
 Solved 771. Jewels and Stones
 Solved 994. Rotting Oranges
+Solved 994. Rotting Oranges
