@@ -81,3 +81,4 @@ Solved 1512. Number of Good Pairs
 Solved 994. Rotting Oranges
 Solved 1512. Number of Good Pairs
 Solved 5. Longest Palindromic Substring
+Solved 1302. Deepest Leaves Sum
