@@ -77,3 +77,4 @@ Solved 1. Two Sum
 Solved 771. Jewels and Stones
 Solved 994. Rotting Oranges
 Solved 994. Rotting Oranges
+Solved 1512. Number of Good Pairs
