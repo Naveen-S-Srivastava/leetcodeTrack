@@ -91,3 +91,4 @@ Solved 2130. Maximum Twin Sum of a Linked List
 Solved 322. Coin Change
 Solved 91. Decode Ways
 Solved 448. Find All Numbers Disappeared in an Array
+Solved 2667. Create Hello World Function
