@@ -96,3 +96,4 @@ Solved 2769. Find the Maximum Achievable Number
 Solved 39. Combination Sum
 Solved 21. Merge Two Sorted Lists
 Solved 567. Permutation in String
+Solved 2667. Create Hello World Function
