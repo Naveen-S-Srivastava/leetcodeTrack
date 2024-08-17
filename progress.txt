@@ -85,3 +85,4 @@ Solved 1302. Deepest Leaves Sum
 Solved 977. Squares of a Sorted Array
 Solved 1207. Unique Number of Occurrences
 Solved 221. Maximal Square
+Solved 1207. Unique Number of Occurrences
