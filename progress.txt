@@ -97,3 +97,4 @@ Solved 39. Combination Sum
 Solved 21. Merge Two Sorted Lists
 Solved 567. Permutation in String
 Solved 2667. Create Hello World Function
+Solved 1920. Build Array from Permutation
