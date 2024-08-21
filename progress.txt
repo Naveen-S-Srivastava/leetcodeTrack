@@ -113,3 +113,4 @@ Solved 207. Course Schedule
 Solved 695. Max Area of Island
 Solved 56. Merge Intervals
 Solved 33. Search in Rotated Sorted Array
+Solved 1920. Build Array from Permutation
