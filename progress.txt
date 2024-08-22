@@ -117,3 +117,4 @@ Solved 1920. Build Array from Permutation
 Solved 322. Coin Change
 Solved 344. Reverse String
 Solved 208. Implement Trie
+Solved 72. Edit Distance
