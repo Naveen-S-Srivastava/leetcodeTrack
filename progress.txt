@@ -116,3 +116,4 @@ Solved 33. Search in Rotated Sorted Array
 Solved 1920. Build Array from Permutation
 Solved 322. Coin Change
 Solved 344. Reverse String
+Solved 208. Implement Trie
