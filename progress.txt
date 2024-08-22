@@ -125,3 +125,4 @@ Solved 198. House Robber
 Solved 155. Min Stack
 Solved 221. Maximal Square
 Solved 844. Backspace String Compare
+Solved 208. Implement Trie
