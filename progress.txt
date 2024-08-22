@@ -123,3 +123,4 @@ Solved 98. Validate Binary Search Tree
 Solved 1603. Design Parking System
 Solved 198. House Robber
 Solved 155. Min Stack
+Solved 221. Maximal Square
