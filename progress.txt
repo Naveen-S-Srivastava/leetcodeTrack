@@ -129,3 +129,4 @@ Solved 208. Implement Trie
 Solved 21. Merge Two Sorted Lists
 Solved 91. Decode Ways
 Solved 844. Backspace String Compare
+Solved 1342. Number of Steps to Reduce a Number to Zero
