@@ -130,3 +130,4 @@ Solved 21. Merge Two Sorted Lists
 Solved 91. Decode Ways
 Solved 844. Backspace String Compare
 Solved 1342. Number of Steps to Reduce a Number to Zero
+Solved 160. Intersection of Two Linked Lists
