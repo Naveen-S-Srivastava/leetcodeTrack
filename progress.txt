@@ -147,3 +147,4 @@ Solved 17. Letter Combinations of a Phone Number
 Solved 198. House Robber
 Solved 238. Product of Array Except Self
 Solved 5. Longest Palindromic Substring
+Solved 221. Maximal Square
