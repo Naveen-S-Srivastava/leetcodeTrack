@@ -140,3 +140,4 @@ Solved 104. Maximum Depth of Binary Tree
 Solved 198. House Robber
 Solved 1046. Last Stone Weight
 Solved 1342. Number of Steps to Reduce a Number to Zero
+Solved 2215. Find the Difference of Two Arrays
