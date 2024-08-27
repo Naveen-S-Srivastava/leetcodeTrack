@@ -149,3 +149,4 @@ Solved 238. Product of Array Except Self
 Solved 5. Longest Palindromic Substring
 Solved 221. Maximal Square
 Solved 20. Valid Parentheses
+Solved 79. Word Search
