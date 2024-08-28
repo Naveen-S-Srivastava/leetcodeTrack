@@ -150,3 +150,4 @@ Solved 5. Longest Palindromic Substring
 Solved 221. Maximal Square
 Solved 20. Valid Parentheses
 Solved 79. Word Search
+Solved 2114. Maximum Number of Words Found in Sentences
