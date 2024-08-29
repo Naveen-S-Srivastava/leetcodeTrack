@@ -153,3 +153,4 @@ Solved 79. Word Search
 Solved 2114. Maximum Number of Words Found in Sentences
 Solved 31. Next Permutation
 Solved 844. Backspace String Compare
+Solved 2215. Find the Difference of Two Arrays
