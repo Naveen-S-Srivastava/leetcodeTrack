@@ -159,3 +159,4 @@ Solved 2215. Find the Difference of Two Arrays
 Solved 94. Binary Tree Inorder Traversal
 Solved 104. Maximum Depth of Binary Tree
 Solved 94. Binary Tree Inorder Traversal
+Solved 128. Longest Consecutive Sequence
