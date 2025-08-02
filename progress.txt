@@ -171,3 +171,4 @@ Solved 300. Longest Increasing Subsequence
 Solved 344. Reverse String
 Solved 238. Product of Array Except Self
 Solved 221. Maximal Square
+Solved 79. Word Search
