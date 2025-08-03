@@ -177,3 +177,4 @@ Solved 739. Daily Temperatures
 Solved 287. Find the Duplicate Number
 Solved 33. Search in Rotated Sorted Array
 Solved 221. Maximal Square
+Solved 268. Missing Number
