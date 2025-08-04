@@ -186,3 +186,4 @@ Solved 647. Palindromic Substrings
 Solved 91. Decode Ways
 Solved 567. Permutation in String
 Solved 88. Merge Sorted Array
+Solved 72. Edit Distance
