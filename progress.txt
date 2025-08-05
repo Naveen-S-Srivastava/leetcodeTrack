@@ -197,3 +197,4 @@ Solved 2351. First Letter to Appear Twice
 Solved 1342. Number of Steps to Reduce a Number to Zero
 Solved 21. Merge Two Sorted Lists
 Solved 268. Missing Number
+Solved 155. Min Stack
