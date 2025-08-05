@@ -194,3 +194,4 @@ Solved 76. Minimum Window Substring
 Solved 2215. Find the Difference of Two Arrays
 Solved 1046. Last Stone Weight
 Solved 2351. First Letter to Appear Twice
+Solved 1342. Number of Steps to Reduce a Number to Zero
