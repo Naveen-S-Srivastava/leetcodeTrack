@@ -202,3 +202,4 @@ Solved 518. Coin Change II
 Solved 42. Trapping Rain Water
 Solved 1732. Find the Highest Altitude
 Solved 21. Merge Two Sorted Lists
+Solved 221. Maximal Square
