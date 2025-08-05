@@ -188,3 +188,4 @@ Solved 567. Permutation in String
 Solved 88. Merge Sorted Array
 Solved 72. Edit Distance
 Solved 198. House Robber
+Solved 347. Top K Frequent Elements
