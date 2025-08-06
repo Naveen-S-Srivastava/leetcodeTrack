@@ -199,3 +199,4 @@ Solved 21. Merge Two Sorted Lists
 Solved 268. Missing Number
 Solved 155. Min Stack
 Solved 518. Coin Change II
+Solved 42. Trapping Rain Water
