@@ -204,3 +204,4 @@ Solved 1732. Find the Highest Altitude
 Solved 21. Merge Two Sorted Lists
 Solved 221. Maximal Square
 Solved 155. Min Stack
+Solved 114. Flatten Binary Tree to Linked List
