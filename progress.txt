@@ -212,3 +212,4 @@ Solved 1342. Number of Steps to Reduce a Number to Zero
 Solved 17. Letter Combinations of a Phone Number
 Solved 206. Reverse Linked List
 Solved 844. Backspace String Compare
+Solved 19. Remove Nth Node From End of List
