@@ -207,3 +207,4 @@ Solved 155. Min Stack
 Solved 114. Flatten Binary Tree to Linked List
 Solved 198. House Robber
 Solved 763. Partition Labels
+Solved 104. Maximum Depth of Binary Tree
