@@ -211,3 +211,4 @@ Solved 104. Maximum Depth of Binary Tree
 Solved 1342. Number of Steps to Reduce a Number to Zero
 Solved 17. Letter Combinations of a Phone Number
 Solved 206. Reverse Linked List
+Solved 844. Backspace String Compare
