@@ -216,3 +216,4 @@ Solved 19. Remove Nth Node From End of List
 Solved 104. Maximum Depth of Binary Tree
 Solved 238. Product of Array Except Self
 Solved 198. House Robber
+Solved 206. Reverse Linked List
