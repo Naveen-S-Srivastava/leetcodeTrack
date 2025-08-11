@@ -221,3 +221,4 @@ Solved 64. Minimum Path Sum
 Solved 2215. Find the Difference of Two Arrays
 Solved 581. Shortest Unsorted Continuous Subarray
 Solved 268. Missing Number
+Solved 98. Validate Binary Search Tree
