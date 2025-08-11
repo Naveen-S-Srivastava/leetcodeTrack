@@ -227,3 +227,4 @@ Solved 2130. Maximum Twin Sum of a Linked List
 Solved 344. Reverse String
 Solved 279. Perfect Squares
 Solved 279. Perfect Squares
+Solved 98. Validate Binary Search Tree
