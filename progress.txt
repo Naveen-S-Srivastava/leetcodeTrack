@@ -225,3 +225,4 @@ Solved 98. Validate Binary Search Tree
 Solved 1732. Find the Highest Altitude
 Solved 2130. Maximum Twin Sum of a Linked List
 Solved 344. Reverse String
+Solved 279. Perfect Squares
