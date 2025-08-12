@@ -228,3 +228,4 @@ Solved 344. Reverse String
 Solved 279. Perfect Squares
 Solved 279. Perfect Squares
 Solved 98. Validate Binary Search Tree
+Solved 279. Perfect Squares
