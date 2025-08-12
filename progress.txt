@@ -234,3 +234,4 @@ Solved 169. Majority Element
 Solved 617. Merge Two Binary Trees
 Solved 207. Course Schedule
 Solved 287. Find the Duplicate Number
+Solved 844. Backspace String Compare
