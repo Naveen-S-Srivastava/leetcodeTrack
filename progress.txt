@@ -231,3 +231,4 @@ Solved 98. Validate Binary Search Tree
 Solved 279. Perfect Squares
 Solved 438. Find All Anagrams in a String
 Solved 169. Majority Element
+Solved 617. Merge Two Binary Trees
