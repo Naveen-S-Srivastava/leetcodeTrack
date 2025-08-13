@@ -233,3 +233,4 @@ Solved 438. Find All Anagrams in a String
 Solved 169. Majority Element
 Solved 617. Merge Two Binary Trees
 Solved 207. Course Schedule
+Solved 287. Find the Duplicate Number
