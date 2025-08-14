@@ -240,3 +240,4 @@ Solved 300. Longest Increasing Subsequence
 Solved 1512. Number of Good Pairs
 Solved 494. Target Sum
 Solved 437. Path Sum III
+Solved 2351. First Letter to Appear Twice
