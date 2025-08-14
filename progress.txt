@@ -243,3 +243,4 @@ Solved 437. Path Sum III
 Solved 2351. First Letter to Appear Twice
 Solved 160. Intersection of Two Linked Lists
 Solved 76. Minimum Window Substring
+Solved 208. Implement Trie
