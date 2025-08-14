@@ -238,3 +238,4 @@ Solved 844. Backspace String Compare
 Solved 617. Merge Two Binary Trees
 Solved 300. Longest Increasing Subsequence
 Solved 1512. Number of Good Pairs
+Solved 494. Target Sum
