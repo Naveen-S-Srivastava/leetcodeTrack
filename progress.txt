@@ -255,3 +255,4 @@ Solved 543. Diameter of Binary Tree
 Solved 287. Find the Duplicate Number
 Solved 283. Move Zeroes
 Solved 543. Diameter of Binary Tree
+Solved 2469. Convert the Temperature
