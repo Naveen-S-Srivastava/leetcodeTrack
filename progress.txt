@@ -250,3 +250,4 @@ Solved 39. Combination Sum
 Solved 695. Max Area of Island
 Solved 3. Longest Substring Without Repeating Characters
 Solved 131. Palindrome Partitioning
+Solved 1603. Design Parking System
