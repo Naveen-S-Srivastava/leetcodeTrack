@@ -247,3 +247,4 @@ Solved 208. Implement Trie
 Solved 146. LRU Cache
 Solved 39. Combination Sum
 Solved 39. Combination Sum
+Solved 695. Max Area of Island
