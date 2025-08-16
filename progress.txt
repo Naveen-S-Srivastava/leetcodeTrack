@@ -257,3 +257,4 @@ Solved 283. Move Zeroes
 Solved 543. Diameter of Binary Tree
 Solved 2469. Convert the Temperature
 Solved 125. Valid Palindrome
+Solved 567. Permutation in String
