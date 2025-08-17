@@ -265,3 +265,4 @@ Solved 17. Letter Combinations of a Phone Number
 Solved 518. Coin Change II
 Solved 771. Jewels and Stones
 Solved 560. Subarray Sum Equals K
+Solved 844. Backspace String Compare
