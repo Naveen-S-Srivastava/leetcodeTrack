@@ -279,3 +279,4 @@ Solved 3. Longest Substring Without Repeating Characters
 Solved 234. Palindrome Linked List
 Solved 581. Shortest Unsorted Continuous Subarray
 Solved 1512. Number of Good Pairs
+Solved 1512. Number of Good Pairs
