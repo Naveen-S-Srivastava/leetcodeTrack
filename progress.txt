@@ -273,3 +273,4 @@ Solved 1603. Design Parking System
 Solved 1342. Number of Steps to Reduce a Number to Zero
 Solved 344. Reverse String
 Solved 448. Find All Numbers Disappeared in an Array
+Solved 53. Maximum Subarray
