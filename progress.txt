@@ -275,3 +275,4 @@ Solved 344. Reverse String
 Solved 448. Find All Numbers Disappeared in an Array
 Solved 53. Maximum Subarray
 Solved 1207. Unique Number of Occurrences
+Solved 3. Longest Substring Without Repeating Characters
