@@ -283,3 +283,4 @@ Solved 1512. Number of Good Pairs
 Solved 1046. Last Stone Weight
 Solved 322. Coin Change
 Solved 22. Generate Parentheses
+Solved 2. Add Two Numbers
