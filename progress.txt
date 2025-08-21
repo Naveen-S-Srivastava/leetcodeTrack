@@ -285,3 +285,4 @@ Solved 322. Coin Change
 Solved 22. Generate Parentheses
 Solved 2. Add Two Numbers
 Solved 2390. Removing Stars From a String
+Solved 72. Edit Distance
