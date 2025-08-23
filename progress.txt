@@ -304,3 +304,4 @@ Solved 2011. Final Value of Variable After Performing Operations
 Solved 39. Combination Sum
 Solved 91. Decode Ways
 Solved 79. Word Search
+Solved 72. Edit Distance
