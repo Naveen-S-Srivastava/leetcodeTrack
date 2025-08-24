@@ -298,3 +298,4 @@ Solved 287. Find the Duplicate Number
 Solved 543. Diameter of Binary Tree
 Solved 2469. Convert the Temperature
 Solved 226. Invert Binary Tree
+Solved 1512. Number of Good Pairs
