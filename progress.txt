@@ -315,3 +315,4 @@ Solved 771. Jewels and Stones
 Solved 62. Unique Paths
 Solved 560. Subarray Sum Equals K
 Solved 94. Binary Tree Inorder Traversal
+Solved 72. Edit Distance
