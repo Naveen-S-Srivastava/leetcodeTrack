@@ -314,3 +314,4 @@ Solved 3. Longest Substring Without Repeating Characters
 Solved 771. Jewels and Stones
 Solved 62. Unique Paths
 Solved 560. Subarray Sum Equals K
+Solved 94. Binary Tree Inorder Traversal
