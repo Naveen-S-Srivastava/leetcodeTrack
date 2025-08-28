@@ -327,3 +327,4 @@ Solved 1046. Last Stone Weight
 Solved 1603. Design Parking System
 Solved 72. Edit Distance
 Solved 131. Palindrome Partitioning
+Solved 1143. Longest Common Subsequence
