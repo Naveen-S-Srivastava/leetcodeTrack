@@ -318,3 +318,4 @@ Solved 94. Binary Tree Inorder Traversal
 Solved 72. Edit Distance
 Solved 221. Maximal Square
 Solved 2351. First Letter to Appear Twice
+Solved 268. Missing Number
