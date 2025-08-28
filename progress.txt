@@ -319,3 +319,4 @@ Solved 72. Edit Distance
 Solved 221. Maximal Square
 Solved 2351. First Letter to Appear Twice
 Solved 268. Missing Number
+Solved 977. Squares of a Sorted Array
