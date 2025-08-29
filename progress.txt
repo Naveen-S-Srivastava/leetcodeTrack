@@ -326,3 +326,4 @@ Solved 56. Merge Intervals
 Solved 1046. Last Stone Weight
 Solved 1603. Design Parking System
 Solved 72. Edit Distance
+Solved 131. Palindrome Partitioning
