@@ -322,3 +322,4 @@ Solved 268. Missing Number
 Solved 977. Squares of a Sorted Array
 Solved 1603. Design Parking System
 Solved 438. Find All Anagrams in a String
+Solved 56. Merge Intervals
