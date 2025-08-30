@@ -339,3 +339,4 @@ Solved 46. Permutations
 Solved 560. Subarray Sum Equals K
 Solved 20. Valid Parentheses
 Solved 5. Longest Palindromic Substring
+Solved 2235. Add Two Integers
