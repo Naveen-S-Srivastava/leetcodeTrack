@@ -330,3 +330,4 @@ Solved 131. Palindrome Partitioning
 Solved 1143. Longest Common Subsequence
 Solved 17. Letter Combinations of a Phone Number
 Solved 2. Add Two Numbers
+Solved 15. 3Sum
