@@ -347,3 +347,4 @@ Solved 238. Product of Array Except Self
 Solved 1302. Deepest Leaves Sum
 Solved 76. Minimum Window Substring
 Solved 88. Merge Sorted Array
+Solved 121. Best Time to Buy and Sell Stock
