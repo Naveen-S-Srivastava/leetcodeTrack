@@ -341,3 +341,4 @@ Solved 20. Valid Parentheses
 Solved 5. Longest Palindromic Substring
 Solved 2235. Add Two Integers
 Solved 215. Kth Largest Element in an Array
+Solved 23. Merge k Sorted Lists
