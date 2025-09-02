@@ -353,3 +353,4 @@ Solved 79. Word Search
 Solved 1920. Build Array from Permutation
 Solved 94. Binary Tree Inorder Traversal
 Solved 268. Missing Number
+Solved 46. Permutations
