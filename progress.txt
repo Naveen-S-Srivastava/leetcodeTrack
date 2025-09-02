@@ -354,3 +354,4 @@ Solved 1920. Build Array from Permutation
 Solved 94. Binary Tree Inorder Traversal
 Solved 268. Missing Number
 Solved 46. Permutations
+Solved 230. Kth Smallest Element in BST
