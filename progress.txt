@@ -357,3 +357,4 @@ Solved 46. Permutations
 Solved 230. Kth Smallest Element in BST
 Solved 21. Merge Two Sorted Lists
 Solved 647. Palindromic Substrings
+Solved 2390. Removing Stars From a String
