@@ -359,3 +359,4 @@ Solved 21. Merge Two Sorted Lists
 Solved 647. Palindromic Substrings
 Solved 2390. Removing Stars From a String
 Solved 876. Middle of the Linked List
+Solved 371. Sum of Two Integers
