@@ -366,3 +366,4 @@ Solved 647. Palindromic Substrings
 Solved 46. Permutations
 Solved 238. Product of Array Except Self
 Solved 287. Find the Duplicate Number
+Solved 230. Kth Smallest Element in BST
