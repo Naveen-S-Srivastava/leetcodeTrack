@@ -371,3 +371,4 @@ Solved 581. Shortest Unsorted Continuous Subarray
 Solved 567. Permutation in String
 Solved 207. Course Schedule
 Solved 20. Valid Parentheses
+Solved 567. Permutation in String
