@@ -378,3 +378,4 @@ Solved 448. Find All Numbers Disappeared in an Array
 Solved 2390. Removing Stars From a String
 Solved 20. Valid Parentheses
 Solved 169. Majority Element
+Solved 1920. Build Array from Permutation
