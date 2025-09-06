@@ -381,3 +381,4 @@ Solved 169. Majority Element
 Solved 1920. Build Array from Permutation
 Solved 2390. Removing Stars From a String
 Solved 72. Edit Distance
+Solved 94. Binary Tree Inorder Traversal
