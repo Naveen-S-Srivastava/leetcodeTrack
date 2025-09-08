@@ -391,3 +391,4 @@ Solved 438. Find All Anagrams in a String
 Solved 15. 3Sum
 Solved 88. Merge Sorted Array
 Solved 977. Squares of a Sorted Array
+Solved 763. Partition Labels
