@@ -385,3 +385,4 @@ Solved 94. Binary Tree Inorder Traversal
 Solved 2390. Removing Stars From a String
 Solved 76. Minimum Window Substring
 Solved 518. Coin Change II
+Solved 104. Maximum Depth of Binary Tree
