@@ -395,3 +395,4 @@ Solved 763. Partition Labels
 Solved 53. Maximum Subarray
 Solved 56. Merge Intervals
 Solved 84. Largest Rectangle in Histogram
+Solved 84. Largest Rectangle in Histogram
