@@ -399,3 +399,4 @@ Solved 84. Largest Rectangle in Histogram
 Solved 2351. First Letter to Appear Twice
 Solved 1672. Richest Customer Wealth
 Solved 2469. Convert the Temperature
+Solved 125. Valid Palindrome
