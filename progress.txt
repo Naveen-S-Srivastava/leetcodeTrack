@@ -393,3 +393,4 @@ Solved 88. Merge Sorted Array
 Solved 977. Squares of a Sorted Array
 Solved 763. Partition Labels
 Solved 53. Maximum Subarray
+Solved 56. Merge Intervals
