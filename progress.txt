@@ -410,3 +410,4 @@ Solved 5. Longest Palindromic Substring
 Solved 141. Linked List Cycle
 Solved 2390. Removing Stars From a String
 Solved 104. Maximum Depth of Binary Tree
+Solved 125. Valid Palindrome
