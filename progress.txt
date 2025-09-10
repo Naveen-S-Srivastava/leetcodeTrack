@@ -403,3 +403,4 @@ Solved 125. Valid Palindrome
 Solved 371. Sum of Two Integers
 Solved 2351. First Letter to Appear Twice
 Solved 155. Min Stack
+Solved 2390. Removing Stars From a String
