@@ -414,3 +414,4 @@ Solved 125. Valid Palindrome
 Solved 344. Reverse String
 Solved 402. Remove K Digits
 Solved 21. Merge Two Sorted Lists
+Solved 169. Majority Element
