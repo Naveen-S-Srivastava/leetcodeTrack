@@ -433,3 +433,4 @@ Solved 3. Longest Substring Without Repeating Characters
 Solved 72. Edit Distance
 Solved 448. Find All Numbers Disappeared in an Array
 Solved 125. Valid Palindrome
+Solved 347. Top K Frequent Elements
