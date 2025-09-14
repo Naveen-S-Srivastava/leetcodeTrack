@@ -425,3 +425,4 @@ Solved 53. Maximum Subarray
 Solved 2215. Find the Difference of Two Arrays
 Solved 31. Next Permutation
 Solved 23. Merge k Sorted Lists
+Solved 56. Merge Intervals
