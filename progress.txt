@@ -429,3 +429,4 @@ Solved 56. Merge Intervals
 Solved 581. Shortest Unsorted Continuous Subarray
 Solved 581. Shortest Unsorted Continuous Subarray
 Solved 844. Backspace String Compare
+Solved 3. Longest Substring Without Repeating Characters
