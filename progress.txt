@@ -448,3 +448,4 @@ Solved 155. Min Stack
 Solved 1020. Number of Enclaves
 Solved 344. Reverse String
 Solved 695. Max Area of Island
+Solved 2114. Maximum Number of Words Found in Sentences
