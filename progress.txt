@@ -445,3 +445,4 @@ Solved 347. Top K Frequent Elements
 Solved 394. Decode String
 Solved 518. Coin Change II
 Solved 155. Min Stack
+Solved 1020. Number of Enclaves
