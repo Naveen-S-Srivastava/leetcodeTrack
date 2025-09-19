@@ -451,3 +451,4 @@ Solved 695. Max Area of Island
 Solved 2114. Maximum Number of Words Found in Sentences
 Solved 416. Partition Equal Subset Sum
 Solved 3. Longest Substring Without Repeating Characters
+Solved 560. Subarray Sum Equals K
