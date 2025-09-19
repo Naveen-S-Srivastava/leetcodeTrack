@@ -456,3 +456,4 @@ Solved 1046. Last Stone Weight
 Solved 206. Reverse Linked List
 Solved 494. Target Sum
 Solved 33. Search in Rotated Sorted Array
+Solved 1603. Design Parking System
