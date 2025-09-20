@@ -453,3 +453,4 @@ Solved 416. Partition Equal Subset Sum
 Solved 3. Longest Substring Without Repeating Characters
 Solved 560. Subarray Sum Equals K
 Solved 1046. Last Stone Weight
+Solved 206. Reverse Linked List
