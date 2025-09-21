@@ -462,3 +462,4 @@ Solved 1207. Unique Number of Occurrences
 Solved 2351. First Letter to Appear Twice
 Solved 1020. Number of Enclaves
 Solved 2235. Add Two Integers
+Solved 1302. Deepest Leaves Sum
