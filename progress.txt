@@ -465,3 +465,4 @@ Solved 2235. Add Two Integers
 Solved 1302. Deepest Leaves Sum
 Solved 1020. Number of Enclaves
 Solved 210. Course Schedule II
+Solved 567. Permutation in String
