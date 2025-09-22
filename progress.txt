@@ -467,3 +467,4 @@ Solved 1020. Number of Enclaves
 Solved 210. Course Schedule II
 Solved 567. Permutation in String
 Solved 560. Subarray Sum Equals K
+Solved 22. Generate Parentheses
