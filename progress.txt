@@ -470,3 +470,4 @@ Solved 560. Subarray Sum Equals K
 Solved 22. Generate Parentheses
 Solved 977. Squares of a Sorted Array
 Solved 1342. Number of Steps to Reduce a Number to Zero
+Solved 33. Search in Rotated Sorted Array
