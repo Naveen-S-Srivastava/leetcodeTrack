@@ -480,3 +480,4 @@ Solved 2011. Final Value of Variable After Performing Operations
 Solved 2011. Final Value of Variable After Performing Operations
 Solved 122. Best Time to Buy and Sell Stock II
 Solved 76. Minimum Window Substring
+Solved 98. Validate Binary Search Tree
