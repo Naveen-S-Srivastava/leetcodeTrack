@@ -474,3 +474,4 @@ Solved 33. Search in Rotated Sorted Array
 Solved 1207. Unique Number of Occurrences
 Solved 1207. Unique Number of Occurrences
 Solved 2769. Find the Maximum Achievable Number
+Solved 98. Validate Binary Search Tree
