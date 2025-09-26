@@ -476,3 +476,4 @@ Solved 1207. Unique Number of Occurrences
 Solved 2769. Find the Maximum Achievable Number
 Solved 98. Validate Binary Search Tree
 Solved 104. Maximum Depth of Binary Tree
+Solved 2011. Final Value of Variable After Performing Operations
