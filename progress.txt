@@ -485,3 +485,4 @@ Solved 543. Diameter of Binary Tree
 Solved 84. Largest Rectangle in Histogram
 Solved 494. Target Sum
 Solved 94. Binary Tree Inorder Traversal
+Solved 402. Remove K Digits
