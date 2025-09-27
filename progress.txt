@@ -492,3 +492,4 @@ Solved 207. Course Schedule
 Solved 1480. Running Sum of 1d Array
 Solved 160. Intersection of Two Linked Lists
 Solved 494. Target Sum
+Solved 15. 3Sum
