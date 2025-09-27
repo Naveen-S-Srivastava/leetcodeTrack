@@ -489,3 +489,4 @@ Solved 402. Remove K Digits
 Solved 160. Intersection of Two Linked Lists
 Solved 581. Shortest Unsorted Continuous Subarray
 Solved 207. Course Schedule
+Solved 1480. Running Sum of 1d Array
