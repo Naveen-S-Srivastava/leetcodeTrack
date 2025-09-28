@@ -495,3 +495,4 @@ Solved 494. Target Sum
 Solved 15. 3Sum
 Solved 56. Merge Intervals
 Solved 518. Coin Change II
+Solved 146. LRU Cache
