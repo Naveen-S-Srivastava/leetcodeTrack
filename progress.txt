@@ -496,3 +496,4 @@ Solved 15. 3Sum
 Solved 56. Merge Intervals
 Solved 518. Coin Change II
 Solved 146. LRU Cache
+Solved 169. Majority Element
