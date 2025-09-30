@@ -505,3 +505,4 @@ Solved 416. Partition Equal Subset Sum
 Solved 560. Subarray Sum Equals K
 Solved 543. Diameter of Binary Tree
 Solved 2469. Convert the Temperature
+Solved 1672. Richest Customer Wealth
