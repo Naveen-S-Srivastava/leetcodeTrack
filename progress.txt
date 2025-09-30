@@ -503,3 +503,4 @@ Solved 234. Palindrome Linked List
 Solved 771. Jewels and Stones
 Solved 416. Partition Equal Subset Sum
 Solved 560. Subarray Sum Equals K
+Solved 543. Diameter of Binary Tree
